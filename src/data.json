@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "task": "npx create-react-app todo-cra",
+    "complete": false
+  }, {
+    "id": 2,
+    "task": "cd todo-cra",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "npm start",
+    "complete": false
+  }]

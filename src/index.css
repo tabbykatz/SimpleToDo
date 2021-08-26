@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Klee+One&display=swap');
+body {
+  margin: 25 auto;
+  font-family: 'Klee One', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.todo {
+  cursor: pointer;
+}
+.strike {
+  text-decoration: line-through;
+}
+ .button {
+   margin-top: 20px;
+ }
