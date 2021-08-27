@@ -3,6 +3,8 @@
 ## passing functions to children to manage state since 2021
 
 
-```git clone && cd
+```
+git clone && cd
 npm i
-npm start```
+npm start
+```
